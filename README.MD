@@ -73,6 +73,3 @@ In this project, color detection is performed in the following steps:
 
 6. Display the original frame with bounding boxes on the objects of the detected color.
 
-## Demo
-
-![Color Detection Demo](color_detection_demo.gif)
